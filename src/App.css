@@ -7,6 +7,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+h1 {
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 72px;
+  color: #0ccac4;
+}
 
 .App-header {
   background-color: #282c34;
@@ -31,3 +36,4 @@
     transform: rotate(360deg);
   }
 }
+
